@@ -36,9 +36,9 @@
         "bufferutil": "4.0.7",
         "equihashverify": "git+https://github.com/s-nomp/equihashverify.git",
         "merkle-bitcoin": "1.0.2",
-        "pm2": "5.3.0",
+        "pm2": "^2.5.0",
         "promise": "8.3.0",
-        "string-width": "https://github.com/sindresorhus/string-width.git#282cf3d53918a92cc3ee0778dcf938039bcbc47b",
+        "string-width": "git+https://github.com/sindresorhus/string-width.git#282cf3d53918a92cc3ee0778dcf938039bcbc47b",
         "utf-8-validate": "5.0.10",
         "verushash": "git+https://github.com/VerusCoin/verushash-node.git#e6572f345b8c24e4a1212f6c9eb66c1c400d83e1"
     },
