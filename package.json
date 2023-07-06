@@ -29,16 +29,16 @@
         "url": "https://github.com/s-nomp/node-stratum-pool.git"
     },
     "dependencies": {
-        "async": "^2.6.4",
-        "base58-native": "^0.1.4",
-        "bignum": "^0.13.1",
+        "async": "2.6.4",
+        "base58-native": "0.1.4",
+        "bignum": "0.13.1",
         "bitgo-utxo-lib": "git+https://github.com/miketout/bitgo-utxo-lib.git#0ff91d078c550f4be08bc69c9f991bda85ec509a",
-        "bufferutil": "^4.0.7",
+        "bufferutil": "4.0.7",
         "equihashverify": "git+https://github.com/s-nomp/equihashverify.git",
-        "merkle-bitcoin": "^1.0.2",
-        "pm2": "^5.3.0",
-        "promise": "^8.3.0",
-        "utf-8-validate": "^5.0.10",
+        "merkle-bitcoin": "1.0.2",
+        "pm2": "5.3.0",
+        "promise": "8.3.0",
+        "utf-8-validate": "5.0.10",
         "verushash": "git+https://github.com/VerusCoin/verushash-node.git#e6572f345b8c24e4a1212f6c9eb66c1c400d83e1"
     },
     "engines": {
