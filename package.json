@@ -29,7 +29,6 @@
         "url": "https://github.com/s-nomp/node-stratum-pool.git"
     },
     "dependencies": {
-        "node-gyp": "5.0.0",
         "async": "2.6.4",
         "base58-native": "0.1.4",
         "bignum": "0.13.1",
@@ -37,6 +36,7 @@
         "bufferutil": "4.0.7",
         "equihashverify": "git+https://github.com/s-nomp/equihashverify.git",
         "merkle-bitcoin": "1.0.2",
+        "node-gyp": "5.0.0",
         "pm2": "^2.5.0",
         "promise": "8.3.0",
         "string-width": "git+https://github.com/sindresorhus/string-width.git#282cf3d53918a92cc3ee0778dcf938039bcbc47b",
